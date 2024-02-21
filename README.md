@@ -12,7 +12,7 @@
         }
 
         header {
-            background-color: #333;
+            background-color: pink;
             color: white;
             padding: 1em;
             text-align: center;
@@ -57,7 +57,7 @@
 <body>
 
     <header>
-        <h1>Your Name - Portfolio</h1>
+        <h1>TIMOTHY WIRE - Portfolio</h1>
     </header>
 
     <nav>
@@ -67,19 +67,19 @@
     </nav>
 
     <section id="home">
-        <h2>Welcome to My Portfolio</h2>
+        <h2>TIMOTHY WIRE PORTFOLIO</h2>
         <p>This is the home section of my portfolio. Feel free to explore!</p>
     </section>
 
     <section id="about">
         <h2>About Me</h2>
-        <p>Provide a brief description of yourself here.</p>
+        <p>I am a software developer courtesy of power learn project.</p>
     </section>
 
     <section id="projects">
         <h2>Projects</h2>
         <ul>
-            <li><strong>Project 1:</strong> Description of Project 1</li>
+            <li><strong>Project 1:</strong>connecting all students countrywide</li>
             <li><strong>Project 2:</strong> Description of Project 2</li>
             <li><strong>Project 3:</strong> Description of Project 3</li>
         </ul>
